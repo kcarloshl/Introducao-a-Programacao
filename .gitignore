@@ -1,0 +1,24 @@
+
+# Arquivos compilados
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*~
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos e pastas do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
